@@ -9,7 +9,7 @@
 
   <p align="center">
     <strong>一线猛料 · 深度挖掘 · 拒绝失联</strong><br />
-    建议收藏本页地址：<code>[github.com/your-name/chigua](https://github.com/LHWebGroup/LH-56CG)</code>
+    建议收藏本页地址：<code>https://github.com/LHWebGroup/LH-56CG</code>
   </p>
 </div>
 
