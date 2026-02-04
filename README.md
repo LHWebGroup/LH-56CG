@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&bg=000000&color=f39c12&height=200&section=header&text=吃瓜第一现场&fontSize=80&animation=twinkling" width="100%" />
+
   <br />
 
   <img src="https://img.shields.io/badge/情报更新-实时监控中-f39c12?style=for-the-badge&logo=opsgenie" />
@@ -6,7 +9,7 @@
 
   <p align="center">
     <strong>一线猛料 · 深度挖掘 · 拒绝失联</strong><br />
-    建议收藏本页地址：<code>https://github.com/LHWebGroup/LH-56CG</code>
+    建议收藏本页地址：<code>github.com/your-name/chigua</code>
   </p>
 </div>
 
