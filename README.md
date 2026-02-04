@@ -53,7 +53,7 @@
 ### 💬 加入吃瓜群 (Community)
 
 <div align="center">
-  <a href="https://t.me/your_chigua_channel">
+  <a href="https://t.me/bazhuayuer">
     <img src="https://img.shields.io/badge/Telegram-瓜友集结地-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
