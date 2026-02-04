@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&bg=000000&color=f39c12&height=200&section=header&text=吃瓜第一现场&fontSize=80&animation=twinkling" width="100%" />
+
 
   <br />
 
