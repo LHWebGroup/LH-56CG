@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Telegram-瓜友集结地-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:chigua@proton.me">
+  <a href="mailto:luolidao168@gmail.com">
     <img src="https://img.shields.io/badge/Email-匿名爆料-D14836?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </div>
