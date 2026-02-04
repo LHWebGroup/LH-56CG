@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&bg=000000&color=f39c12&height=200&section=header&text=吃瓜第一现场&fontSize=80&animation=twinkling" width="100%" />
-
   <br />
 
   <img src="https://img.shields.io/badge/情报更新-实时监控中-f39c12?style=for-the-badge&logo=opsgenie" />
@@ -27,24 +24,6 @@
 | **🛡️ 节点 4** | 永久发布/防封 | `🛡️ 加密` | 🔵 永久 | [👉 立即收藏](https://pcpyf.com) |
 
 ---
-
-### 📱 掌上情报站 (Client Apps)
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Android-安卓端下载-A4C639?style=for-the-badge&logo=android&logoColor=white" /><br />
-      <sub>内置极速防封解析</sub><br />
-      <a href="https://example.com/chigua.apk"><b>[ 📥 APK 下载 ]</b></a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/iOS-苹果端下载-000000?style=for-the-badge&logo=apple&logoColor=white" /><br />
-      <sub>TestFlight 或 网页书签</sub><br />
-      <a href="https://example.com/ios"><b>[ 📑 安装教程 ]</b></a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 📢 突发动态 (Hot Updates)
